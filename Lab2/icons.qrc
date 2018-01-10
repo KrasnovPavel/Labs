@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>downTriangle.svg</file>
+        <file>rightTriangle.svg</file>
+        <file>minus.svg</file>
+    </qresource>
+</RCC>
